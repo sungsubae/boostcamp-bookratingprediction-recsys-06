@@ -67,3 +67,5 @@
 3) Ensemble.ipynb 파일 실행 => submit/Ensemble.csv 파일 생성
 
 상세한 프로젝트 내용은 발표자료 및 레포트를 참고해주세요!
+[발표자료](https://github.com/sungsubae/boostcamp-bookratingprediction-recsys-06/blob/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EB%B0%8F%20%EB%A0%88%ED%8F%AC%ED%8A%B8/Recsys-team6-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+[Wrap-up 레포트](https://github.com/sungsubae/boostcamp-bookratingprediction-recsys-06/blob/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EB%B0%8F%20%EB%A0%88%ED%8F%AC%ED%8A%B8/Wrap-Up_Report_RecSys06.pdf)
